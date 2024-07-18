@@ -11,7 +11,7 @@ The Business Insights 360 project aims to provide actionable insights derived fr
   - **Purpose:** Analyzes the company’s financial health, highlighting key metrics such as net sales, gross margin, and net profit.
   - **Key Features:** Profit and loss statements, sales performance trends, and customer/product segment performance.
 
-- **[Sales View](#sales-view)**
+- **[Sales View](#https://github.com/VenkataraoEpparla/Business-Insights-360/blob/main/Finance.JPG)**
   - **Purpose:** Provides detailed insights into customer and product performance, market analysis, and unit economics.
   - **Key Features:** Performance metrics for top customers and products, sales trends, and gross margin analysis.
 
