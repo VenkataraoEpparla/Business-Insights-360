@@ -1,4 +1,4 @@
-# Business-Insights-360
+# Business-Insights-360(#finance-view)
 Welcome to the Business Insights 360 project repository! This project harnesses the power of Power BI to deliver comprehensive insights into various facets of business performance. Explore how data analysis and visualization can drive informed decision-making across finance, sales, market dynamics, supply chain efficiency, and executive insights.
 
 ## Project Overview
