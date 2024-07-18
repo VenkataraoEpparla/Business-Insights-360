@@ -1,4 +1,4 @@
-# **[Business-Insights-360](#sales-view)**
+# **[Business-Insights-360](https://github.com/VenkataraoEpparla/Business-Insights-360/blob/main/Atliq%20(1).pptx)**
 Welcome to the Business Insights 360 project repository! This project harnesses the power of Power BI to deliver comprehensive insights into various facets of business performance. Explore how data analysis and visualization can drive informed decision-making across finance, sales, market dynamics, supply chain efficiency, and executive insights.
 
 ## Project Overview
