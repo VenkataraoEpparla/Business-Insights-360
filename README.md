@@ -27,7 +27,7 @@ The Business Insights 360 project aims to provide actionable insights derived fr
   - **Purpose:** Provides a high-level summary of key performance indicators across the business, aligned with strategic objectives.
   - **Key Features:** Executive summaries, strategic goal tracking, and risk management insights.
 
-### Technical & Soft Skills
+### Technical & Soft Skills Learnigs
 
 **Technical Skills:**
 - Data extraction, transformation, and loading (ETL) techniques.
